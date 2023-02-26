@@ -4,5 +4,5 @@
 Para rodar esse projeto na sua maquina, reze
 
 ~~~~
-npm reze react
+node app.js
 ~~~~
